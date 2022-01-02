@@ -1,0 +1,21 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜çöõ
+V
+java:S3457)"AFormat specifiers should be used instead of string concatenation.(ÔÅð!
+c
+java:S34574"AFormat specifiers should be used instead of string concatenation.(±Ÿ” ùÿÿÿÿ8¢ƒ…ÛØ/
+c
+java:S3457@"AFormat specifiers should be used instead of string concatenation.(ÊÚë‡úÿÿÿÿ8¹é…ÛØ/
+W
+java:S3457K"AFormat specifiers should be used instead of string concatenation.(ë¨ŽÈ
+p
+java:S1128	"TRemove this unused import 'org.yxr_qrx.graduationproject.controller.UserController'.(ó‰Ï<8Äé…ÛØ/
+q
+java:S2629)"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÔÅð!
+~
+java:S26294"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(±Ÿ” ùÿÿÿÿ8§ƒ…ÛØ/
+~
+java:S2629@"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÊÚë‡úÿÿÿÿ8Åé…ÛØ/
+r
+java:S2629K"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ë¨ŽÈ

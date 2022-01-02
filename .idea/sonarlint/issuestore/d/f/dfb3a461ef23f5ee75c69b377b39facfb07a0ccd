@@ -1,0 +1,37 @@
+
+[
+java:S4684L"@Replace this persistent entity with a simple POJO or DTO object.(õİòüÿÿÿÿ
+[
+java:S4684L"@Replace this persistent entity with a simple POJO or DTO object.(õİòüÿÿÿÿ
+[
+java:S4684L"@Replace this persistent entity with a simple POJO or DTO object.(õİòüÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'cn.hutool.http.HttpUtil'.(ÂŒ
+J
+java:S1128"4Remove this unused import 'cn.hutool.http.HttpUtil'.(ÂŒ
+J
+java:S1128"4Remove this unused import 'cn.hutool.http.HttpUtil'.(ÂŒ
+J
+java:S1128"4Remove this unused import 'cn.hutool.json.JSONUtil'.( «ı¢
+J
+java:S1128"4Remove this unused import 'cn.hutool.json.JSONUtil'.( «ı¢
+J
+java:S1128"4Remove this unused import 'cn.hutool.json.JSONUtil'.( «ı¢
+V
+java:S1128"";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ
+V
+java:S1128"";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ
+V
+java:S1128"";Remove this unused import 'javax.servlet.http.HttpServlet'.(û÷Å›ÿÿÿÿÿ
+X
+java:S1128#"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…
+X
+java:S1128#"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…
+X
+java:S1128#"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…
+?
+java:S1128$")Remove this unused import 'java.io.File'.(†Ğ¥Å
+?
+java:S1128$")Remove this unused import 'java.io.File'.(†Ğ¥Å
+?
+java:S1128$")Remove this unused import 'java.io.File'.(†Ğ¥Å

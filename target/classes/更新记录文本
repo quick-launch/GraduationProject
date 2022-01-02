@@ -1,0 +1,21 @@
+2021/12/7
+20:12---AdminController添加了getUserById与updateUser两个方法，新建了UserUpdateVO类
+20.43---UserController整合了修改个人信息功能updateUser方法
+
+2021/12/8
+22.24
+新增GiteeImgBedUtils工具类
+CustomController的deleteOrder和createOrder，AdminController的updateUser，UserController的updateUser 合计四个方法修改了存储图片的方式与逻辑
+avatarPath和imgPath两个实体类新增downloadurl属性
+AvatarPathServiceImpl修改create方法名称为update
+
+22.42
+删除了EvaluationVO类
+
+2021/12/13
+15.21
+UserController新增一键已读接口 allRead,删除接口已读处理。
+entity实体类增加注解"@JsonIgnoreProperties(value = { "hibernateLazyInitializer","handler"})"
+
+22.19
+AdminController新增一键已读接口 allRead

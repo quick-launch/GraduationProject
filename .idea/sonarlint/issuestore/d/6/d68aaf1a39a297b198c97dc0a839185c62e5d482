@@ -1,0 +1,9 @@
+
+`	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+Y
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(¦Ğí
+‡
+java:S1130$"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+e
+java:S1128	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è·Ü…øÿÿÿÿ

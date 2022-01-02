@@ -1,0 +1,27 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ø‹¦Íùÿÿÿÿ
+:
+java:S1168F"$Return an empty map instead of null.(¥¹ï
+W
+java:S3457J"AFormat specifiers should be used instead of string concatenation.(õğûá
+A
+java:S1168P"$Return an empty map instead of null.(¥¹ï8ò‚šÒÙ/
+:
+java:S1168X"$Return an empty map instead of null.(¥¹ï
+\
+java:S3457\"AFormat specifiers should be used instead of string concatenation.(Öêë©øÿÿÿÿ
+W
+java:S3457e"AFormat specifiers should be used instead of string concatenation.(õğûá
+i
+java:S1128"TRemove this unused import 'org.yxr_qrx.graduationproject.controller.UserController'.(ó‰Ï<
+=
+java:S1068,"'Remove this unused "PRE" private field.(¯Ãáø
+I
+java:S1144º"2Remove this unused private "getFileSuffix" method.(·Õ´¡
+i
+java:S1192š"MDefine a constant instead of duplicating this literal "access_token" 3 times.(‹Èÿşÿÿÿÿ
+M
+java:S2629J"7Use the built-in formatting to construct this argument.(õğûá
+M
+java:S2629e"7Use the built-in formatting to construct this argument.(õğûá

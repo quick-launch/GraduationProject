@@ -1,0 +1,22 @@
+
+a	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+K
+java:S3740×"/Provide the parametrized type for this generic.(ÆŞ»”ùÿÿÿÿ
+F
+java:S3740Ø"/Provide the parametrized type for this generic.(´±™
+m
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(§Î×ùÿÿÿÿ
+H
+java:S1135~"2Complete the task associated to this TODO comment.(§œ¹
+C
+java:S3011‰",This accessibility update should be removed.(˜ÂÓ˜
+~
+java:S3252ë"gUse static access with "org.springframework.web.context.request.RequestAttributes" for "SCOPE_REQUEST".(Œ—´ó
+~
+java:S3252ğ"gUse static access with "org.springframework.web.context.request.RequestAttributes" for "SCOPE_REQUEST".(ÉØÕ
+|
+java:S1192L"aDefine a constant instead of duplicating this literal "required param %s is not present" 4 times.(¢ÒÃúÿÿÿÿ
+c
+java:S2259ï"LA "NullPointerException" could be thrown; "servletRequest" is nullable here.(Ú­€õ
+l
+java:S2259E"QA "NullPointerException" could be thrown; "parameterAnnotation" is nullable here.(µ’ãÜşÿÿÿÿ

@@ -1,0 +1,12 @@
+
+k
+java:S1128"IRemove this unused import 'org.yxr_qrx.graduationproject.entity.Address'.(µ‡ÅÍşÿÿÿÿ8ˆµñÊÛ/
+h
+java:S1128
+"LRemove this unused import 'org.yxr_qrx.graduationproject.entity.RepairType'.(ç›¦Q8‰µñÊÛ/
+c
+java:S1128"FRemove this unused import 'org.yxr_qrx.graduationproject.entity.User'.(şá¢ï8‰µñÊÛ/
+K
+java:S1128"/Remove this unused import 'java.sql.Timestamp'.(èò½+8ŠµñÊÛ/
+f
+java:S3655,"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(šÍªª
